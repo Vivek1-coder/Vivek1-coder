@@ -20,4 +20,4 @@ I love combining hardware and software to build smart solutions!
 
 ---
 
-![Sapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapna&show_icons=true&theme=radical)
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapna&show_icons=true&theme=radical)
