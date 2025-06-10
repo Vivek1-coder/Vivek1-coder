@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/Vivek1-coder)](https://linkedin.com/in/Vivek1-coder)
 [![GitHub followers](https://img.shields.io/github/followers/vivek1-coder?label=Follow&style=social)](https://github.com/vivek1-coder)
 [![GitHub stars](https://img.shields.io/github/stars/vivek1-coder?style=social)](https://github.com/vivek1-coder)
-[![GitHub forks](https://img.shields.io/github/forks/vivek1-coder?style=social)](https://github.com/vivek1-coder)
 
 ---
 
@@ -42,6 +41,12 @@
 
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivek1-coder&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek1-coder&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Vivek's GitHub trophies](https://github-profile-trophy.vercel.app/?username=vivek1-coder&theme=radical&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
