@@ -1,9 +1,9 @@
 # Hi there, I'm Vivek 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/Vivek1-coder)](https://linkedin.com/in/Vivek1-coder)
-[![GitHub Followers](https://img.shields.io/github/followers/vivek1-coder?label=Follow&style=social)](https://github.com/vivek1-coder)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vivek1-coder)
+[![GitHub Followers](https://img.shields.io/github/followers/vivek1-coder?style=social)](https://github.com/vivek1-coder)
 [![GitHub Stars](https://img.shields.io/github/stars/vivek1-coder?style=social)](https://github.com/vivek1-coder)
-![Profile Views](https://komarev.com/ghpvc/?username=vivek1-coder&color=blueviolet&style=flat)
+![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=vivek1-coder&label=Profile%20Views&countColor=%23263759)
 
 ---
 
