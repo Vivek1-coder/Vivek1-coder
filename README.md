@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sapna! 👋
 
-<!--
-**Vivek1-coder/Vivek1-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- Passionate about software development and AI-ML.
+- Experienced in MERN stack.
+- Exploring AI and data science.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- Programming: Python, C/C++, JavaScript
+- Hardware: ESP8266, Arduino, Sensors
+- Frameworks: Flask, React, Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+## ⚡ Fun fact
+I love combining hardware and software to build smart solutions!
+
+---
+
+![Sapna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapna&show_icons=true&theme=radical)
