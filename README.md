@@ -63,22 +63,13 @@
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=vivek1-coder&show_icons=true&theme=radical" width="80%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek1-coder&theme=radical" width="80%"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=vivek1-coder&show_icons=true&theme=radical" width="100%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek1-coder&theme=radical" width="100%"> |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek1-coder&theme=algolia&margin-w=10&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🚀 Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| [Project One](https://github.com/vivek1-coder/project-one) | AI-powered resume screener with FastAPI and React | [Repo](https://github.com/vivek1-coder/project-one) |
-| [Project Two](https://github.com/vivek1-coder/project-two) | Automation CLI tool built with Python | [Repo](https://github.com/vivek1-coder/project-two) |
 
 ---
 
