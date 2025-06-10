@@ -1,4 +1,4 @@
-# Hi, I'm Sapna! 👋
+# Hi, I'm Vivek! 👋
 
 ## 👩‍💻 About Me
 - Passionate about software development and AI-ML.
