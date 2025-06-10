@@ -14,7 +14,7 @@
 - 👯 Looking to collaborate on **open-source, AI/ML, and full-stack projects**
 - 💬 Ask me about **C++, Python, Nextjs, ML, and Web Dev**
 - 📫 Reach me: **vy212205@gmail.com**
-- ⚡ Fun fact: I once automated my day with a self web platform 😄
+- ⚡ Fun fact: Built a personal automation platform that streamlines my daily tasks — because why not let the browser run your life?
 
 ---
 
