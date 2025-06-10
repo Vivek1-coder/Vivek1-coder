@@ -66,8 +66,6 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=vivek1-coder&show_icons=true&theme=radical" width="48%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek1-coder&theme=radical" width="48%"> |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
----
-
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vivek1-coder&theme=algolia&margin-w=10&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
