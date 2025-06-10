@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=vivek1-coder&show_icons=true&theme=radical" width="60%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek1-coder&theme=radical" width="60%"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=vivek1-coder&show_icons=true&theme=radical" width="80%"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek1-coder&theme=radical" width="80%"> |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
 
